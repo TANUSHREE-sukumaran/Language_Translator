@@ -1,0 +1,5 @@
+apple    सेब
+orange   संतरा
+banana   केला
+house    घर
+elephant  हाथी

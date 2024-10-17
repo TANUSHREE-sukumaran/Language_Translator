@@ -1,0 +1,5 @@
+Hola   Hello
+¿Cómo estás?    How are you?
+Gracias    Thank you
+Adiós   Goodbye
+Me llamo Juan   My name is Juan

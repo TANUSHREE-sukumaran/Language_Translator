@@ -1,0 +1,4 @@
+elephant   हाथी   éléphant
+transportation   परिवहन   transport
+acknowledgment   स्वीकृति   reconnaissance
+establishment   स्थापना   établissement
